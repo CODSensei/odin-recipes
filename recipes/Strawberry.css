@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    color: crimson;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 40px;
+    text-decoration: underline;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+img{
+    align-self: center;
+}
+
+p{
+    color: purple;
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: 500;
+    margin-top: 5px;
+}
+
+h3{
+    color: red;
+    text-align: center;
+    font-weight: 700;
+    font-size: 2rem;
+    text-decoration: underline;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+li{
+    color: purple;
+    margin-left: 30px;
+    font-size: 1.25rem;
+    margin-bottom: 20px;
+}
