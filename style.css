@@ -12,6 +12,7 @@ h1 {
   text-align: center;
   margin-top: 5px;
   font-size: 40px;
+  text-decoration:underline;
 }
 
 li {
@@ -20,6 +21,16 @@ li {
   margin-left: 30px;
 }
 
+button{
+  background-color:yellow;
+  font-size:24px;
+  color: purple;
+  border: none;
+}
+
+
+
 a {
   color: purple;
+  text-decoration:none;
 }
